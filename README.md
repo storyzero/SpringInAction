@@ -1,3 +1,7 @@
 # SpringInAction
 
-### Spring 스터디..
+## Spring In Action 4판.
+
+## 환경
+- Gradle
+- org.springframework.Spring-*.4+
